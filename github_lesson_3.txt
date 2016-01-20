@@ -5,3 +5,7 @@ When i need access to my project from multiple machines
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I might not be sure whether I really want to update master branch this way before i am done
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Well, there is a lot to describe, really. Forks - make a version of another person's code on github, clone - add the repository locally, branch - experiments 
